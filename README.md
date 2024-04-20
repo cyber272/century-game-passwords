@@ -45,5 +45,5 @@ For more details on GPG encryption and usage, refer to the [GPG Documentation](h
 
 ---
 
-### Additional Notes
-- **SSH Security**: Always verify the authenticity of the SSH server before entering passwords.
+>Additional Notes:
+> - **SSH Security**: Always verify the authenticity of the SSH server before entering passwords.
