@@ -36,7 +36,7 @@ The passwords have been encrypted for security. To access the encrypted password
 
 ## Public Key
 
-To decrypt the passwords, use the following [**GPG_Public_Key**](Sam-pubkey.gpg):
+To decrypt the passwords, use the following [**`GPG_Public_Key`**](Sam-pubkey.gpg):
 ```
 <Sam-pubkey.gpg>
 ```
