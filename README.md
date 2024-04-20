@@ -13,7 +13,7 @@ When prompted, enter the corresponding password from the table below to access t
 
 ## Encrypted Passwords
 
-The passwords have been encrypted for security. To access the encrypted passwords file, please refer to `signed_encrypted_century.asc`.
+The passwords have been encrypted for security. To access the encrypted passwords file, please refer to [Century.file](`signed_encrypted_century.asc`).
 
 ## Usage
 
@@ -36,7 +36,7 @@ The passwords have been encrypted for security. To access the encrypted password
 
 ## Public Key
 
-To decrypt the passwords, use the following GPG public key:
+To decrypt the passwords, use the following [GPG public key](Sam-pubkey.gpg):
 ```
 <Sam-pubkey.gpg>
 ```
